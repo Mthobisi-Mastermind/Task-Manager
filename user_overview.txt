@@ -1,0 +1,43 @@
+
+
+-------USERS OVERVIEW-------
+
+TOTAL REGISTERED USERS : 5
+
+TOTAL ASSIGNED TASKS   : 5
+
+STATS FOR : admin
+	-Tasks assigned to                             : 0
+	-% Of user's tasks to total tasks              : 0.0%
+	-% Of user's tasks complete to tasks assigned  : 0%
+	-% Of user's incomplete tasks to tasks assigned: 0%
+	-% Of overdue tasks to incomplete tasks        : 0%
+
+STATS FOR : max
+	-Tasks assigned to                             : 1
+	-% Of user's tasks to total tasks              : 20.0%
+	-% Of user's tasks complete to tasks assigned  : 0.0%
+	-% Of user's incomplete tasks to tasks assigned: 0%
+	-% Of overdue tasks to incomplete tasks        : 100.0%
+
+STATS FOR : mthoba
+	-Tasks assigned to                             : 4
+	-% Of user's tasks to total tasks              : 80.0%
+	-% Of user's tasks complete to tasks assigned  : 0.0%
+	-% Of user's incomplete tasks to tasks assigned: 0%
+	-% Of overdue tasks to incomplete tasks        : 50.0%
+
+STATS FOR : messi
+	-Tasks assigned to                             : 0
+	-% Of user's tasks to total tasks              : 0.0%
+	-% Of user's tasks complete to tasks assigned  : 0%
+	-% Of user's incomplete tasks to tasks assigned: 0%
+	-% Of overdue tasks to incomplete tasks        : 0%
+
+STATS FOR : khumalo
+	-Tasks assigned to                             : 0
+	-% Of user's tasks to total tasks              : 0.0%
+	-% Of user's tasks complete to tasks assigned  : 0%
+	-% Of user's incomplete tasks to tasks assigned: 0%
+	-% Of overdue tasks to incomplete tasks        : 0%
+
