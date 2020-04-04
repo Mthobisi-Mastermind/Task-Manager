@@ -8,7 +8,7 @@ Program Registers and Manages Tasks for company staff members
 * [Setup](#setup)
 * [Features](#features)
 * [Status](#status)
-* Inspiration(#inspiration)
+* [Inspiration](#inspiration)
 * [Contact](#contact)
 
 ## General info
@@ -47,7 +47,7 @@ Currently the program can only be ran from a Python IDE, which can be downloaded
 The program is complete and functions accordingly, but might be upgraded as time goes on.
 
 ## Inspiration
-Inspired by the struggle in which most companies face in trying to keep up with how far a person is with their tasks.
+Inspired by the struggle in which most companies face in trying to keep up with how far an employee is with their tasks.
 
 ## Contact
 Created by @Mthobisi-Mastermind, feel free to contact me:
